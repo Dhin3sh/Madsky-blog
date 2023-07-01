@@ -1,1 +1,2 @@
 # edlrn
+print('hello world')
